@@ -1,0 +1,30 @@
+[{
+  "_id": {
+    "$oid": "6632a422632e1090eaf6c089"
+  },
+  "title": "Rowerem przez Zieloną Górę - Razem dla dzieci!",
+  "description": "Dołącz do nas na charytatywny rajd rowerowy, który wspiera lokalne domy dziecka! To świetna okazja, aby aktywnie spędzić czas, poznać malownicze trasy Zielonej Góry i przyczynić się do ważnej sprawy. Startujemy na Placu Bohaterów, a meta czeka na nas w parku z piknikiem, muzyką na żywo i atrakcjami dla całej rodziny.\r\n\r\nWpisowe: 50 zł - 100% kwoty wspiera dzieci.\r\nAtrakcje: Pamiątkowe koszulki, medale, licytacje i więcej!",
+  "eventdate": {
+    "$date": "2024-05-23T00:00:00.000Z"
+  },
+  "eventtime": "16:00",
+  "location": "Podgórna 7, 65-057 Zielona Góra",
+  "image": "herbmiasta.png1714594850388.png",
+  "organizer": "Urzad Miasta",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6632aa76632e1090eaf6f0fa"
+  },
+  "title": "Wielki Wyścig Rowerowy Zielona Góra 2024!",
+  "description": "Zapraszamy wszystkich miłośników dwóch kółek do udziału w emocjonującym Wielkim Wyścigu Rowerowym Zielona Góra 2024! Niezależnie od tego, czy jesteś doświadczonym cyklistą, czy weekendowym rowerzystą, mamy dla Ciebie odpowiednią trasę.</br>\r\nNagrody:</br>\r\n\r\n    1. miejsce (profesjonalna): 5000 zł + puchar + zestaw profesjonalnego sprzętu rowerowego</br>\r\n    2. miejsce (profesjonalna): 3000 zł + puchar</br>\r\n    3. miejsce (profesjonalna): 1000 zł + puchar</br>\r\n    1. miejsce (amatorska): 1000 zł + puchar + bon na akcesoria rowerowe</br>\r\n    Nagrody pocieszenia dla wszystkich uczestników</br>",
+  "eventdate": {
+    "$date": "2024-05-17T00:00:00.000Z"
+  },
+  "eventtime": "15:00",
+  "location": "Nowy Kisielin - Antoniego Wysockiego 10, 66-002 Zielona Góra",
+  "image": "perceptus.png1714596470235.png",
+  "organizer": "Perceptus",
+  "__v": 0
+}]

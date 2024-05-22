@@ -1,0 +1,114 @@
+[{
+  "_id": {
+    "$oid": "662299e86eaa9e7e0ad6b22f"
+  },
+  "name": "ROWEREK.PL - sklep internetowy i serwis rowerowy",
+  "address": "al. Wojska Polskiego 86, 65-762 Rowerek",
+  "internet_page": "https://rowerek.pl/Serwis-rowerowy-cinfo-pol-31.html",
+  "phone_number": "796935555",
+  "latitude": "51.93792906527756",
+  "longitude": "15.48439151905155",
+  "google_link": "https://www.google.pl/maps/place/ROWEREK.PL+-+sklep+internetowy+i+serwis+rowerowy/@51.9378266,15.481366,17z/data=!3m1!4b1!4m6!3m5!1s0x470613fd132e62ff:0xde9cc9f678d338af!8m2!3d51.9378233!4d15.4839409!16s%2Fg%2F1ygvt02f3?entry=ttu",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66229b766eaa9e7e0ad6b231"
+  },
+  "name": "PROROWERY.pl Zielona Góra | Serwis i Sklep Rowerowy",
+  "address": "Sulechowska 4A, 65-119 Zielona Góra",
+  "internet_page": "https://prorowery.pl/zielona-gora",
+  "phone_number": "684134000",
+  "latitude": "51.95026942452182",
+  "longitude": "15.520775754432771",
+  "google_link": "https://www.google.pl/maps/place/PROROWERY.pl+Zielona+G%C3%B3ra+%7C+Serwis+i+Sklep+Rowerowy/@51.9497985,15.512676,17z/data=!4m10!1m2!2m1!1sserwis+rowerowy+zielona+g%C3%B3ra!3m6!1s0x4706134f006df1ab:0xe1e0a7a9757443a4!8m2!3d51.9497985!4d15.5174396!15sCh1zZXJ3aXMgcm93ZXJvd3kgemllbG9uYSBnw7NyYVofIh1zZXJ3aXMgcm93ZXJvd3kgemllbG9uYSBnw7NyYZIBDWJpY3ljbGVfc3RvcmWaASRDaGREU1VoTk1HOW5TMFZKUTBGblNVUm9ibkJsYzIxM1JSQULgAQA!16s%2Fg%2F11r3lcsk_s?entry=ttu",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66229bc96eaa9e7e0ad6b233"
+  },
+  "name": "Serwis Rowery elektryczne baterie e-bike e-hulajnogi Eladowarki.com",
+  "address": "Mieszka I 7A, 65-040 Zielona Góra",
+  "internet_page": "http://eladowarki.com/",
+  "phone_number": "692757005",
+  "latitude": "51.94273699628991",
+  "longitude": "15.514918216704729",
+  "google_link": "https://www.google.pl/maps/place/Serwis+Rowery+elektryczne+baterie+e-bike+e-hulajnogi+Eladowarki.com/@51.9425883,15.5097147,17z/data=!4m10!1m2!2m1!1sserwis+rowerowy+zielona+g%C3%B3ra!3m6!1s0x470613a5b8099033:0x6c2a2e6131ac4e45!8m2!3d51.9425883!4d15.5144783!15sCh1zZXJ3aXMgcm93ZXJvd3kgemllbG9uYSBnw7NyYVofIh1zZXJ3aXMgcm93ZXJvd3kgemllbG9uYSBnw7NyYZIBDWludGVybmV0X3Nob3DgAQA!16s%2Fg%2F11h8mqr2fg?entry=ttu",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66229c416eaa9e7e0ad6b235"
+  },
+  "name": "Sogest - Giant",
+  "address": "Kazimierza Wielkiego 19, 65-047 Zielona Góra",
+  "internet_page": "https://sogest.com.pl/",
+  "phone_number": "683299689",
+  "latitude": "51.943613137316206",
+  "longitude": "15.511798211926207",
+  "google_link": "https://www.google.pl/maps/place/Sogest+-+Giant/@51.9441227,15.5035156,16z/data=!4m10!1m2!2m1!1sserwis+rowerowy+zielona+g%C3%B3ra!3m6!1s0x470613dcce601c57:0x5f0903aa0293dc01!8m2!3d51.9433732!4d15.5107307!15sCh1zZXJ3aXMgcm93ZXJvd3kgemllbG9uYSBnw7NyYVofIh1zZXJ3aXMgcm93ZXJvd3kgemllbG9uYSBnw7NyYZIBDWJpY3ljbGVfc3RvcmWaASRDaGREU1VoTk1HOW5TMFZKUTBGblNVUTJiblpVU0dwQlJSQULgAQA!16s%2Fg%2F1tj29qc7?entry=ttu",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66229ccd6eaa9e7e0ad6b237"
+  },
+  "name": "Mbike Serwis Rowerowy",
+  "address": "Francuska 14A, 65-941 Zielona Góra",
+  "phone_number": "515385945",
+  "latitude": "51.933617444595114",
+  "longitude": "15.477691525559461",
+  "google_link": "https://www.google.pl/maps/place/Mbike+Serwis+Rowerowy/@51.9333996,15.4673059,16z/data=!4m10!1m2!2m1!1sserwis+rowerowy+zielona+g%C3%B3ra!3m6!1s0x4706111297576991:0xef8ee9a04efeaa8f!8m2!3d51.9333996!4d15.4768331!15sCh1zZXJ3aXMgcm93ZXJvd3kgemllbG9uYSBnw7NyYVofIh1zZXJ3aXMgcm93ZXJvd3kgemllbG9uYSBnw7NyYZIBE2JpY3ljbGVfcmVwYWlyX3Nob3CaASNDaFpEU1VoTk1HOW5TMFZKUTBGblNVTTVja3hQZVdGM0VBReABAA!16s%2Fg%2F11kjzwrlkl?entry=ttu",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66229dcf53c8b397f3a3088b"
+  },
+  "name": "Rant. Skrypnik J.",
+  "address": "Świętych Cyryla i Metodego 3, 65-533 Zielona Góra",
+  "phone_number": "604527976",
+  "latitude": "51.926566242206405",
+  "longitude": "15.48874148362007",
+  "google_link": "https://www.google.pl/maps/place/Rant.+Skrypnik+J./@51.9260512,15.4731629,15z/data=!4m10!1m2!2m1!1sserwis+rowerowy+zielona+g%C3%B3ra!3m6!1s0x4706115b5e971491:0x3aedb0277056d170!8m2!3d51.9260512!4d15.4874376!15sCh1zZXJ3aXMgcm93ZXJvd3kgemllbG9uYSBnw7NyYVofIh1zZXJ3aXMgcm93ZXJvd3kgemllbG9uYSBnw7NyYZIBDWJpY3ljbGVfc3RvcmWaASNDaFpEU1VoTk1HOW5TMFZKUTBGblNVUnBPVkF5TTBWbkVBReABAA!16s%2Fg%2F1tghbvjl?entry=ttu",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66229f9d53c8b397f3a3088d"
+  },
+  "name": "Sulima Rowery - Serwis",
+  "address": "Porzeczkowa 2, 65-001 Zielona Góra",
+  "internet_page": "http://www.sulimarowery.pl/",
+  "phone_number": "601348634",
+  "latitude": "51.94465129138451",
+  "longitude": "15.477134859949677",
+  "google_link": "https://www.google.pl/maps/place/Sulima+Rowery+-+Serwis/@51.9445092,15.4722854,17z/data=!4m10!1m2!2m1!1sserwis+rowerowy+zielona+g%C3%B3ra!3m6!1s0x470613f8e9707b21:0x19af3e0de170e6f5!8m2!3d51.9445092!4d15.477049!15sCh1zZXJ3aXMgcm93ZXJvd3kgemllbG9uYSBnw7NyYVofIh1zZXJ3aXMgcm93ZXJvd3kgemllbG9uYSBnw7NyYZIBDWJpY3ljbGVfc3RvcmWaASRDaGREU1VoTk1HOW5TMFZKUTBGblNVUnBiWEpRV0c1UlJSQULgAQA!16s%2Fg%2F12hp7q_4_?entry=ttu",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66229ff653c8b397f3a3088f"
+  },
+  "name": "Marcin Wider BIKE GARAGE",
+  "address": "Fioletowa 44, 65-128 Zielona Góra",
+  "internet_page": "https://www.facebook.com/MarcinWiderBG",
+  "phone_number": "515289405",
+  "latitude": "51.97704338153616",
+  "longitude": "15.528712774649994",
+  "google_link": "https://www.google.pl/maps/place/Marcin+Wider+BIKE+GARAGE/@51.9768948,15.5234878,17z/data=!4m11!1m3!2m2!1sserwis+rowerowy+zielona+g%C3%B3ra!6e6!3m6!1s0x4706131cff1ba959:0x1f5aaf9579509c4d!8m2!3d51.9768948!4d15.5282514!15sCh1zZXJ3aXMgcm93ZXJvd3kgemllbG9uYSBnw7NyYVofIh1zZXJ3aXMgcm93ZXJvd3kgemllbG9uYSBnw7NyYZIBDWJpY3ljbGVfc3RvcmWaASNDaFpEU1VoTk1HOW5TMFZKUTBGblNVTmFiWEZEVkZaM0VBReABAA!16s%2Fg%2F11lq8w9kcv?entry=ttu",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6622a08f53c8b397f3a30891"
+  },
+  "name": "Serwis rowerowy Dr Bike",
+  "address": "Nowojędrzychowska 25, 65-012 Zielona Góra",
+  "phone_number": "693024666",
+  "latitude": "51.91177368658307",
+  "longitude": "15.50638100014113",
+  "google_link": "https://www.google.pl/maps/place/Serwis+rowerowy+Dr+Bike/@51.911364,15.4939354,15z/data=!4m10!1m2!2m1!1sserwis+rowerowy+zielona+g%C3%B3ra!3m6!1s0x470611aca4a9a17d:0x834e2ad9900eeff9!8m2!3d51.911364!4d15.5052652!15sCh1zZXJ3aXMgcm93ZXJvd3kgemllbG9uYSBnw7NyYVofIh1zZXJ3aXMgcm93ZXJvd3kgemllbG9uYSBnw7NyYZIBE2JpY3ljbGVfcmVwYWlyX3Nob3CaASNDaFpEU1VoTk1HOW5TMFZKUTBGblNVUTRlVnBVVjBOUkVBReABAA!16s%2Fg%2F11jvq45t2w?entry=ttu",
+  "__v": 0
+}]

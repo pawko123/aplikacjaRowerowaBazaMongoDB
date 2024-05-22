@@ -1,0 +1,44 @@
+[{
+  "_id": {
+    "$oid": "6623c9f246efe62da1750cd3"
+  },
+  "name": "Stacja naprawy rowerów",
+  "address": "Stefana Batorego 122, 65-735 Zielona Góra",
+  "latitude": "51.956546957030895",
+  "longitude": "15.496965817127784",
+  "google_link": "https://www.google.com/maps/place/Stacja+naprawy+rower%C3%B3w/@51.9557411,15.4902315,15.62z/data=!4m10!1m2!2m1!1sStacja+naprawy+rower%C3%B3w!3m6!1s0x47061387afe62faf:0x9f3d1b469b452e2f!8m2!3d51.9563055!4d15.4970451!15sChdTdGFjamEgbmFwcmF3eSByb3dlcsOzd5IBE2JpY3ljbGVfcmVwYWlyX3Nob3DgAQA!16s%2Fg%2F11kqzwb2j3?hl=pl-PL&entry=ttu",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6623ca4446efe62da1750cd5"
+  },
+  "name": "Zielonogórski Rower Miejski - STACJA NR 1146",
+  "address": "1 Maja, Zielona Góra",
+  "latitude": "51.93330352288722",
+  "longitude": "15.498595569323987",
+  "google_link": "https://www.google.com/maps/place/Zielonog%C3%B3rski+Rower+Miejski+-+STACJA+NR+1146/@51.9330097,15.4968216,17.62z/data=!4m10!1m2!2m1!1sStacja+naprawy+rower%C3%B3w!3m6!1s0x470611e5932d5f77:0x584889b0f821f176!8m2!3d51.9332517!4d15.4983355!15sChdTdGFjamEgbmFwcmF3eSByb3dlcsOzd5IBGGJpY3ljbGVfc2hhcmluZ19sb2NhdGlvbuABAA!16s%2Fg%2F11g30lxr2f?hl=pl-PL&entry=ttu",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6623ca7f46efe62da1750cd7"
+  },
+  "name": "Stacja naprawy rowerów",
+  "address": "WF8X+2J, 65-307 Zielona Góra",
+  "latitude": "51.91522707644284",
+  "longitude": "15.500371802747525",
+  "google_link": "https://www.google.com/maps/place/Stacja+naprawy+rower%C3%B3w/@51.9154751,15.4956383,16.75z/data=!4m10!1m2!2m1!1sStacja+naprawy+rower%C3%B3w!3m6!1s0x4706114aab57b869:0x85ac3dd19b0f80a3!8m2!3d51.9151025!4d15.4990024!15sChdTdGFjamEgbmFwcmF3eSByb3dlcsOzd5IBE2JpY3ljbGVfcmVwYWlyX3Nob3DgAQA!16s%2Fg%2F11vb6h5hnw?hl=pl-PL&entry=ttu",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6623caa146efe62da1750cd9"
+  },
+  "name": "Stacja naprawy rowerów",
+  "address": "WF3P+7X, 65-307 Zielona Góra",
+  "latitude": "51.90343040745707",
+  "longitude": "15.488828350216473",
+  "google_link": "https://www.google.com/maps/place/Stacja+naprawy+rower%C3%B3w/@51.9038728,15.4842595,16.17z/data=!4m10!1m2!2m1!1sStacja+naprawy+rower%C3%B3w!3m6!1s0x4706110f223c878f:0x6bfe42bfba5f6367!8m2!3d51.9032292!4d15.487477!15sChdTdGFjamEgbmFwcmF3eSByb3dlcsOzd5IBE2JpY3ljbGVfcmVwYWlyX3Nob3DgAQA!16s%2Fg%2F11vb6h8h4m?hl=pl-PL&entry=ttu",
+  "__v": 0
+}]
